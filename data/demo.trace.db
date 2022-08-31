@@ -1,0 +1,9 @@
+2022-08-26 17:47:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DISCOUNT_DETAIL" not found (this database is empty); SQL statement:
+select discountde0_.code as code1_0_0_, discountde0_.category as category2_0_0_, discountde0_.condition as conditio3_0_0_, discountde0_.created_by as created_4_0_0_, discountde0_.created_date as created_5_0_0_, discountde0_.percentage as percenta6_0_0_ from discount_detail discountde0_ where discountde0_.code=? [42104-214]
+2022-08-26 18:06:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DISCOUNT_DETAIL" not found (this database is empty); SQL statement:
+select discountde0_.code as code1_0_0_, discountde0_.category as category2_0_0_, discountde0_.condition as conditio3_0_0_, discountde0_.created_by as created_4_0_0_, discountde0_.created_date as created_5_0_0_, discountde0_.percentage as percenta6_0_0_ from discount_detail discountde0_ where discountde0_.code=? [42104-214]
+2022-08-26 18:12:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DISCOUNT_DETAIL" not found (this database is empty); SQL statement:
+select discountde0_.code as code1_0_0_, discountde0_.category as category2_0_0_, discountde0_.condition as conditio3_0_0_, discountde0_.created_by as created_4_0_0_, discountde0_.created_date as created_5_0_0_, discountde0_.percentage as percenta6_0_0_ from discount_detail discountde0_ where discountde0_.code=? [42104-214]
